@@ -1,6 +1,6 @@
 #' ---
 #' title: "Data Science Methods, Lab for Week 2: Git"
-#' author: "Your Name"
+#' author: "Liza Oh"
 #' email: Your Email
 #' colorlinks: true
 #' output:
