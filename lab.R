@@ -1,7 +1,7 @@
 #' ---
 #' title: "Data Science Methods, Lab for Week 2: Git"
 #' author: "Liza Oh"
-#' email: loh6@ucmerced.edu
+#' email: Your Email
 #' colorlinks: true
 #' output:
 #'   pdf_document: default
